@@ -1,0 +1,6 @@
+{
+  "allowedDomains": [
+    "https://example.com",
+    "https://mydomain.com"
+  ]
+}
