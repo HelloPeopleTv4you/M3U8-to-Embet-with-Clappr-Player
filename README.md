@@ -21,7 +21,7 @@ This project allows you to convert M3U8 streaming URLs into embeddable links usi
 ## How to Use
 
 1. **Open Site **: 
-   - this url open Browser https://m3-u8-to-embet.vercel.app/url= Your m3u8 url
+   - this url open Browser https://m3-u8-to-embet.vercel.app/?url= Your m3u8 url
 
 2. **Enter the M3U8 URL**: 
    - In the provided input field, paste the M3U8 streaming URL you want to convert into an embeddable link.
