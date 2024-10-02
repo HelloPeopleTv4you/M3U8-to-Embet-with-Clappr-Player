@@ -20,8 +20,8 @@ This project allows you to convert M3U8 streaming URLs into embeddable links usi
 ### Installation
 ## How to Use
 
-1. **Open the Project**: 
-   - After cloning the repository, open the `index.html` file in your web browser.
+1. **Open Site **: 
+   - this url https://m3-u8-to-embet.vercel.app/url=https://example.com/index.m3u8 web browser.
 
 2. **Enter the M3U8 URL**: 
    - In the provided input field, paste the M3U8 streaming URL you want to convert into an embeddable link.
@@ -44,11 +44,3 @@ This project allows you to convert M3U8 streaming URLs into embeddable links usi
 Here’s an example of what the embed code may look like:
 ```html
 <iframe src="https://m3-u8-to-embet.vercel.app/url=https://example.com/index.m3u8" width="640" height="360" allowfullscreen></iframe>
-
-### Instructions:
-1. **Copy the Section**: Copy the above section.
-2. **Paste into Your README.md**: Insert it into your README.md file under the appropriate heading (e.g., after the Getting Started section).
-
-This structured format will guide users step-by-step through the process of using your project effectively. Let me know if you need any more help!
-
-
